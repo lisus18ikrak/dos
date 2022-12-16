@@ -17,17 +17,21 @@
 
 ### Step 2:
 
-    Locate to the directory where its python file is located 📂
+    git clone https://github.com/lisus18ikrak/dos.git 📂
 
 ### Step 3:
-
-    Run the command: python3 filename.py 🧐
-
+    
+    cd dos
+    
 ### Step 4:
+
+    Run the command: python3 dos.py 🧐
+
+### Step 5:
 
     Give the Domain name or IP address and port number and click enter 💥
 
-### Step 5:
+### Step 6:
 
     Sit back and Relax. Let the Script do the Job. ☕
 
