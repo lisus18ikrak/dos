@@ -35,7 +35,7 @@
 
     Sit back and Relax. Let the Script do the Job. ☕
 
-### Step 6: 
+### Step 7: 
     Click '3' or (ctrl + c) to quit else it will keep on sending packets 😅 
 
 ## Screenshot
